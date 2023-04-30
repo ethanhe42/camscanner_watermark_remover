@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "fiery-artifact-342404"
+  },
+  "targets": {
+    "fiery-artifact-342404": {
+      "hosting": {
+        "cooltools": [
+          "cooltools"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
